@@ -1,2 +1,2 @@
-# hello-world-python1
+# practical 1
 first Python "Hello World" project (GitHub)  
